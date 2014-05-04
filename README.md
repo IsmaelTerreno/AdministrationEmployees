@@ -4,7 +4,7 @@ AdministrationEmployees
 Example web aplication using spring MVC + Hibernate + Maven + JPA. 
 
 
-Ejercicio:
+Requerimientos base de la aplicaión ejemplo:
  
 Crear las clases necesarias para administrar los Empleados de una Empresa. Cada empleado puede ser de distinto tipo como ser, Programador, Diseñador.
 
