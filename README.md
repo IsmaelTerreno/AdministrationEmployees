@@ -1,7 +1,7 @@
 AdministrationEmployees
 =======================
 
-Example web aplication using spring MVC + Hibernate + Maven + JPA + MySQL. 
+Aplicacion ejemplo usando spring MVC + Hibernate + Maven + JPA + MySQL. 
 
 
 Requerimientos base de la aplicaión ejemplo:
