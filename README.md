@@ -1,7 +1,7 @@
 AdministrationEmployees
 =======================
 
-Example web aplication using spring MVC + Hibernate + Maven + JPA. 
+Example web aplication using spring MVC + Hibernate + Maven + JPA + MySQL. 
 
 
 Requerimientos base de la aplicaión ejemplo:
@@ -32,3 +32,9 @@ obtener un listado de todos los Empleados
 buscar por Id y obtener un Empleado
 obtener el promedio de edad de los empleados
 Nota: Demostrar conocimientos en el manejo de objetos, getters, setters, listados y herencia. 
+
+
+Requerimientos previos a su ejecucion
+=======================
+1. Base de de datos llamada "networkproperties" en servidor MySQL
+2. Importar el proyecto en IDE de desarrollo ECLIPSE STS.
