@@ -1,4 +1,46 @@
 AdministrationEmployees
+======================================
+
+Example application using spring MVC + Hibernate + Maven + JPA + MySQL.
+
+
+Basic requirements of the application example:
+ 
+Create the necessary classes to administer the Employees of a Company. Each employee can be of different types such as being, Programmer, Designer.
+
+
+Class structure:
+Company:
+Id
+First name
+Employees
+Programmer:
+Id
+First name
+Last name
+Age
+Language in which the program (can be: PHP, NET or Python)
+Designer
+Id
+First name
+Last name
+Age
+Type of designer (may be: Graphic or Web)
+In Company, I have to be able to:
+add Employees
+obtain a list of all Employees
+Search by Id and get an Employee
+get the average age of the employees
+Note: Demonstrate knowledge in the handling of objects, getters, setters, listings and inheritance.
+
+
+Requirements prior to its execution
+======================================
+1. Database of data called "networkproperties" in MySQL server
+2. Import the project into ECLIPSE STS development IDE.
+
+
+Administration Employees
 =======================
 
 Aplicacion ejemplo usando spring MVC + Hibernate + Maven + JPA + MySQL. 
