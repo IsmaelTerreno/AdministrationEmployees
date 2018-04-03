@@ -1,4 +1,4 @@
-AdministrationEmployees
+Administration Employees
 ======================================
 
 Example application using spring MVC + Hibernate + Maven + JPA + MySQL.
